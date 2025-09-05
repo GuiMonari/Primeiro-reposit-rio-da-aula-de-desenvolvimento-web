@@ -1,0 +1,40 @@
+/* Seletores de elemento*/
+p{
+    color: blue;
+}
+
+h1{
+    color: yellowgreen;
+}
+
+/*Seletor de ID*/
+#p1{
+    text-align: center;
+    color: rgb(38, 38, 156);
+}
+
+/*seletores de classe*/
+
+.myclass{
+    border: 0.5em ridge blue;
+}
+
+/*Junção de seletores*/
+li.myclass{
+    font-size: xx-large;
+}
+
+.newclass{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.teste-cores{
+    padding: 2%;
+    background-color: rgba(160, 236 , 253, 0.4);
+
+}
