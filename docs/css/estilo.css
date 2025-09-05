@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.menu{
+    background-color: purple;
+    padding: 2rem;
+    margin-right: 1rem;
+    width: 30%;
+}
+
+.conteudo{
+    padding: 0.6rem;
+    width: 70%;
+}
+
+.item-menu{
+    padding: 0.6rem;
+    margin: 0.7rem 0rem 0.7rem 0rem;
+    list-style: none;
+    border-bottom: solid;
+
+}
+
+
+    
+
+.item-menu:hover{
+    background-color: cornflowerblue;
+}
+
+section{
+    margin-top: 5rem;
+}
+
+#sec1{
+    background-color: beige;
+}
